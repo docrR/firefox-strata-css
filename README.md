@@ -1,6 +1,6 @@
-## Firefox 3.6-inspired CSS for 78ESR/79
+## Firefox 2.x-inspired CSS for 78ESR/79
 
-## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3!
+## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 2!
 
 ## Thank you to:
 
@@ -23,8 +23,8 @@ https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=
 https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/
 
 ## Screenshots:
-![1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/42a80437-2766-4c12-b402-e99c1684f78b)
-![2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/f8c68425-4499-4200-8181-97107892f562)
-![3](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/76d38519-5e93-4f80-aa25-b04cc7f8dbc9)
-![4](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/729f839a-8af9-4802-9f97-acc381325cb4)
-![5](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/b8f6302c-f586-4c22-9801-8c3579887d6b)
+![1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/ca305869-6801-4b2c-b1f1-066cb2cc1049)
+![2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/f48717a9-60d3-4c05-a01d-389b8e1997bc)
+![3](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/593815b0-1f55-4745-88ab-add0c12c3739)
+![4](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/57b58fa7-060e-4a4f-9854-c40fa0a147e7)
+![5](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/391dab21-cdd0-41ff-9170-c623231e8ec2)
