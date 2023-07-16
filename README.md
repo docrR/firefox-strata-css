@@ -18,8 +18,8 @@ https://mega.nz/file/I3p1hbYb#BYvnUEWbI6OToac62UilXHFFjTleyM5fh1xTPqPvgUE
 
 Recommended Extenions:
 
-https://addons.mozilla.org/en-US/firefox/addon/livemarks/
-https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+https://addons.mozilla.org/en-US/firefox/addon/livemarks/ | 
+https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search | 
 https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/
 
 ## Screenshots:
