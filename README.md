@@ -11,8 +11,8 @@ Firefox 3.6-inspired CSS for 78ESR/79
 - avenged110 (created part of the about dialog)
 
 ## Screenshots:
-![s1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/cbaa5020-0259-457c-8495-b75b8e1ba1ac)
-![s2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/65862f87-1cb3-4f47-b7b1-6771236f4e98)
-![s3](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/19db4efb-cc10-475e-b171-6819737d9275)
-![s4](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/fc977107-e497-4e45-9aeb-9cd3ea79946a)
-![s5](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/3fc3d6ab-1940-4426-bc14-b6a44e02dbee)
+![1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/42a80437-2766-4c12-b402-e99c1684f78b)
+![2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/f8c68425-4499-4200-8181-97107892f562)
+![3](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/76d38519-5e93-4f80-aa25-b04cc7f8dbc9)
+![4](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/729f839a-8af9-4802-9f97-acc381325cb4)
+![5](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/b8f6302c-f586-4c22-9801-8c3579887d6b)
