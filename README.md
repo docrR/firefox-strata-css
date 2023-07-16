@@ -2,6 +2,8 @@
 
 ## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3!
 
+Theme is designed and optimized for Firefox versions 78.15 - 79.0. MyPal 68 is also supported, with some caveats.
+
 ## Thank you to:
 
 - dotexe1337 (for his contributions to the theme)
