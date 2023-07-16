@@ -11,6 +11,17 @@
 - Aris-t2 (some CSS from CustomCSSforFx was adapted to this theme)
 - avenged110 (created part of the about dialog)
 
+## Additional Tweaks:
+
+Custom userJs scripts for Fx3 throbber, separators, and other tweaks:
+https://mega.nz/file/I3p1hbYb#BYvnUEWbI6OToac62UilXHFFjTleyM5fh1xTPqPvgUE
+
+Recommended Extenions:
+
+https://addons.mozilla.org/en-US/firefox/addon/livemarks/
+https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/
+
 ## Screenshots:
 ![1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/42a80437-2766-4c12-b402-e99c1684f78b)
 ![2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/f8c68425-4499-4200-8181-97107892f562)
